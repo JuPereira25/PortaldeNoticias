@@ -3,6 +3,7 @@
 ## Descrição
 
 Este é um projeto de estudo focado no desenvolvimento de um portal de notícias responsivo utilizando **HTML5** e **CSS3**, com ênfase especial no aprendizado e aplicação prática do **CSS Grid Layout**. O projeto simula um site de notícias de tecnologia chamado "TechNews" com layout moderno e funcional.
+https://jupereira25.github.io/PortaldeNoticias/
 
 ## Objetivos do Projeto
 
